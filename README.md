@@ -1,4 +1,4 @@
-<center> <img src = data/booking.png alt="drawing" style="width:400px;"> </center>
+<center> <img src = images/booking.png alt="drawing" style="width:400px;"> </center>
 
 # <center> Проект: Предсказание рейтинга отеля по данным сайта Booking </center>
 
